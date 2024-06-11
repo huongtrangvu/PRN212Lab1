@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessObjects\\bin",
+    "\\BusinessObjects\\bin\\Debug",
+    "\\BusinessObjects\\bin\\Debug\\net8.0",
+    "\\BusinessObjects\\bin\\Release",
+    "\\BusinessObjects\\bin\\Release\\net8.0",
+    "\\DataAccessObjects",
+    "\\ProductManagement",
+    "\\Repositories",
+    "\\Services"
+  ],
+  "SelectedNode": "\\ProductManagement",
+  "PreviewInSolutionExplorer": false
+}
